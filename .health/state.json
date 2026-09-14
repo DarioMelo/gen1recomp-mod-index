@@ -1,10 +1,4 @@
 {
   "version": 1,
-  "failing": {
-    "mods/campavao@battle_royale": {
-      "strikes": 1,
-      "since": "2026-09-14T04:06:43.203Z",
-      "reason": "github \"campavao/kanto-battle-royale\" returned 404 — deleted, renamed away, or made private"
-    }
-  }
+  "failing": {}
 }
